@@ -21,3 +21,7 @@ https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots
 # Implementation
 
 The implementation can be found in the illustrative notebook named "LSI.ipynb". 
+
+# Important Note
+The notebook was ran on google colab, therefore, the paths and filenames are relative to that particular environment. To be able to properly run everything, fork the repository and change all the paths to a folder where the raw data set is contained and the where the cleaned corpus will be saved. 
+
